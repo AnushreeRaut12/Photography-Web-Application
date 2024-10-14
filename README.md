@@ -1,6 +1,6 @@
 # Photography Web Applicatoin
 
-It is a front-end for a simple portfolio website for a photographer. The site is developed using HTML/CSS and jquery plugins are used to provide extra features. There is only one webpage which is divided in 3 sections.
+It is a front-end for a portfolio website for a photographer. The site is developed using HTML CSS .There is one webpage which is divided in 3 sections.
 
 * Home Section - 
 It is a indroductionary page about the photographer or photo studio. It contains various photos taken by the photographer. Every image gives a little detail about what type of photography the photo falls in. 
